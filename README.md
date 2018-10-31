@@ -10,7 +10,15 @@ Learning how to be an effective leader is never complete, and requires a growth 
 
 The workshop focuses on practical, evidence-based tips and tools for leading effective teams and developing people. How can you make your team a differentiator in the 21st Century?
 
-# References and Other Resources
+# Worksheets (these were handed out in your folder)
+* [Leadership Self-Reflection](https://github.com/thesarahhagan/QConSF-Youve_Lost_That_Leader_Feelin/blob/worksheets/Leadership%20Introduction.pdf)
+* [T-shaped People, Team Circle](https://github.com/thesarahhagan/QConSF-Youve_Lost_That_Leader_Feelin/blob/worksheets/Developing%20Your%20Team.pdf)
+* [Empathy Interviewing Guide](https://github.com/thesarahhagan/QConSF-Youve_Lost_That_Leader_Feelin/blob/worksheets/Empathy%20Interview%20Guide.pdf)
+* [4 Cs Reflection and Question Guide](https://github.com/thesarahhagan/QConSF-Youve_Lost_That_Leader_Feelin/blob/worksheets/4Cs_Reflection.pdf)
+* [SBI Feedback Planner](https://github.com/thesarahhagan/QConSF-Youve_Lost_That_Leader_Feelin/blob/worksheets/Feedback_Planner_SBI.pdf)
+* [Technical vs. Adaptive Change, Core-->Emerging-->Legacy](https://github.com/thesarahhagan/QConSF-Youve_Lost_That_Leader_Feelin/blob/worksheets/Adaptive%20Leadership.pdf)
+
+# References and Other Resourcess
 ### Empathy and Self-Awareness
 
 ### Building Relationships
