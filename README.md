@@ -1,5 +1,5 @@
 # You've Lost that Leader Feelin': How to be a Leader in the 21st Century
-Accompanying repository for the [QConSF 2018](http://qconsf.com/sf2018/speakers/sarah-hagan) leadership workshop (accompanying slides [found here](https://speakerdeck.com/thesarahhagan/youve-lost-that-leader-feelin)). Video can be found on [InfoQ's website here](https://www.infoq.com/presentations/feedback-research-tips), although you may have to email me for access if you can't log in (feel free!).
+Accompanying repository for the [QConSF 2018](http://qconsf.com/sf2018/speakers/sarah-hagan) leadership workshop (accompanying slides [found here](https://speakerdeck.com/thesarahhagan/youve-lost-that-leader-feelin)). 
 
 # Abstract
 Learning how to be an effective leader is never complete, and requires a growth mindset throughout your career. In this densely packed half-day workshop, Sarah Hagan (a data-driven leader known for building collaborative cultures at places like the Bill & Melinda Gates Foundation, Redfin, and Nordstrom) leads the group through fundamentals of effective leadership, including:
